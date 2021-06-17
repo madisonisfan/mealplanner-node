@@ -1,4 +1,12 @@
 {
+  "name": "mealplanner-node",
+  "version": "1.0.0",
+  "description": "Mealplanner for node course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit",
+    "start": "node server"
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
